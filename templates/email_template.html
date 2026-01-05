@@ -1,0 +1,24 @@
+<h2>AI Skill Gap Analysis Report</h2>
+
+<p><b>Job Readiness Score:</b> {{score}}%</p>
+
+<h3>Matched Skills</h3>
+<ul>
+{% for skill in matched %}
+<li>{{skill}}</li>
+{% endfor %}
+</ul>
+
+<h3>Missing Skills</h3>
+<ul>
+{% for skill in missing %}
+<li>{{skill}}</li>
+{% endfor %}
+</ul>
+
+<h3>Resume Improvement Tips</h3>
+<ul>
+{% for tip in tips %}
+<li>{{tip}}</li>
+{% endfor %}
+</ul>
