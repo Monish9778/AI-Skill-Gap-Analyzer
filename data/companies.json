@@ -1,0 +1,14 @@
+{
+  "TCS": {
+    "Python Developer": {
+      "mandatory": ["python", "sql", "problem solving"],
+      "optional": ["linux", "git", "communication"]
+    }
+  },
+  "Infosys": {
+    "Python Developer": {
+      "mandatory": ["python", "sql"],
+      "optional": ["docker", "linux"]
+    }
+  }
+}
