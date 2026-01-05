@@ -1,0 +1,7 @@
+{
+  "python": "Learn basics → OOP → Projects (4 weeks)",
+  "sql": "SELECT, JOIN, Subqueries → Practice (3 weeks)",
+  "git": "Git basics → GitHub workflow (1 week)",
+  "docker": "Docker basics → Containerize apps (1 week)",
+  "linux": "Commands → Shell scripting (1 week)"
+}
